@@ -28,7 +28,7 @@ class ContactApp extends React.Component {
             id: +new Date(),
             name,
             tag,
-            imageUrl: '/images/default.jpg',
+            imageUrl: '/Aplikasi-Contact-With-React/images/default.jpg',
           }
         ]
       }
