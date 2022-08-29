@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Aplikasi-Contact-With-React/static/css/main.687b24ac.css",
-    "main.js": "/Aplikasi-Contact-With-React/static/js/main.a7b8aefd.js",
+    "main.js": "/Aplikasi-Contact-With-React/static/js/main.439db81c.js",
     "index.html": "/Aplikasi-Contact-With-React/index.html",
     "main.687b24ac.css.map": "/Aplikasi-Contact-With-React/static/css/main.687b24ac.css.map",
-    "main.a7b8aefd.js.map": "/Aplikasi-Contact-With-React/static/js/main.a7b8aefd.js.map"
+    "main.439db81c.js.map": "/Aplikasi-Contact-With-React/static/js/main.439db81c.js.map"
   },
   "entrypoints": [
     "static/css/main.687b24ac.css",
-    "static/js/main.a7b8aefd.js"
+    "static/js/main.439db81c.js"
   ]
 }
